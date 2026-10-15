@@ -1,0 +1,12 @@
+{
+  "probe_interval": 2.0,
+  "image_change_threshold": 0.12,
+  "initial_context": 2.0,
+  "max_context": 16.0,
+  "max_expansions": 3,
+  "max_evidence_frames": 48,
+  "max_candidates": 10000,
+  "max_native_frames": 120000,
+  "media_timeout": 180.0,
+  "max_refinement_steps": 4
+}
